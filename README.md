@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lni)](https://solved.ac/lni/)
+![로고명](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=3776AB)
